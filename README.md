@@ -5,7 +5,7 @@
 ## Project Overview
 ______
 
-PyBer is a ride-sharing app company that wants to increase accessibility to ride sharing services in undeserved regions. PyBer provides services in three types of cities: urban, suburban, and rural. They wish to analyze the relationship between number of drivers and riders, and type of city, as well as the percentage of total fares, total riders and total drivers per type of city. PyBer utilizes Python, Pandas libraries as well as Jupyter notebooks and Matplotlib to analyze their data. 
+PyBer is a ride-sharing app company that wants to increase accessibility to ride sharing services in underserved regions. PyBer provides services in three types of cities: urban, suburban, and rural. They wish to analyze the relationship between number of drivers and riders, and type of city, as well as the percentage of total fares, total riders and total drivers per type of city. PyBer utilizes Python, Pandas libraries as well as Jupyter notebooks and Matplotlib to analyze their data. 
 
 ### Objective
 The analysis and visualizations requested by PyBer will help improve access to ride sharing services and evaluate the affordability in specific regions. 
@@ -45,7 +45,7 @@ The box plot for the average number of drivers shows that there’s a mean of 37
 
 ![Image_name](Resources/Fig4.png)
 
-We observe that on average, rural areas have inadequate service due to prices being higher than in urban and suburban areas and having very few drivers. The following pie chart shows that despite fares being higher per ride in rural areas, the total fares in rural areas make up only 6.8% of the sum of fares for each city type.
+We observe that on average, rural areas have inadequate service due to prices being higher than in urban and suburban areas and having very few drivers. The following pie chart shows that despite fares being higher per ride in rural areas, the total fares in rural areas make up only 6.8% of the sum of fares for all cities.
 
 ![Image_name](Resources/Fig5.png)
 
